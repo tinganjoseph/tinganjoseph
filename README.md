@@ -6,7 +6,7 @@ Full Stack  Developer
 
 expert software developer with years of design, development, and integration expertise. knowing a variety of programming languages, tools, and operating systems, such as Java, JavaScript, React, Express js, Node js, PHP, Python, React Native, Ubuntu, Windows, and Linux. Along with technological expertise, I have experience working with a variety of databases like; Mongodb, Postgresql, MySQL. extensive knowledge of data analysis and visualization, comfort with challenging datasets, and aptitude for finding patterns and insights through data analysis and exploration. Strong communication and problem-solving abilities, with the capacity to present results to a range of audiences. proficiency with a range of tools and operating systems.
 
-* 🌍  I live in Ghana <a href="https://www.flaticon.com/free-icons/ghana" title="ghana icons">Ghana icons created by Freepik - Flaticon</a>
+* 🌍  I live in Ghana
 * 🖥️  See my portfolio at [Smith Joseph]()
 * ✉️  You can contact me at [tinganjoseph7@gmail.com]()
 * 🚀  I'm currently working as [Fullstack Freelancer]()
